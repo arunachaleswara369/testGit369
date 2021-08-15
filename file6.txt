@@ -1,0 +1,2 @@
+This is file6.txt from develop branch
+This is common line
