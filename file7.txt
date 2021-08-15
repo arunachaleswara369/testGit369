@@ -1,1 +1,1 @@
-This is file7.txt first line
+This is file7.txt first line from develop branch
