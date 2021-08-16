@@ -1,2 +1,3 @@
 This is file6.txt from master branch
 This is common line
+THIS IS LINE 3 IN file6.txt
