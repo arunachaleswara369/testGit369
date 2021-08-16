@@ -1,1 +1,2 @@
 This is file3.txt First Line
+THIS IS LINE 2
